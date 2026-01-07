@@ -1,3 +1,2 @@
 # LibraryManagement
-.
-hello git
+Long đang code 
