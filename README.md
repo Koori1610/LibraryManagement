@@ -1,2 +1,1 @@
-Phần mềm quản lí thư viện 1.0
-
+Dự án quản lý thư viện của nhóm A
